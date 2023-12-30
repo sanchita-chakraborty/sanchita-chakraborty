@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanchita-chakraborty
 - 👀 I’m interested in Applied Mathematics with a focus in Celestial Mechanics, Computational Fluid Dynamics and Financial Mathematics.
-- 🌱 I’m currently learning Python, MATLAB, Numerical Analysis, and Orbital Mechanics.
-- 💞️ I’m looking to collaborate on Celestial Mechanics Projects.
+- 🌱 I’m currently learning Python, MATLAB, Numerical Analysis, and CFD.
+- 💞️ I’m looking to collaborate on CFD Projects.
 - 📫 How to reach me: email schakraborty.research at gmail.com
 
 <!---
